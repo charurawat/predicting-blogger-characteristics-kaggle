@@ -2,7 +2,7 @@
 
 ## Predicting age of a blogger based on blogs written by the blogger
 
-This analysis is based off a Kaggle competition (https://www.kaggle.com/c/sys6018-competition-3) which is a part of an assignment in the SYS 6018 course in Data Mining. The learning objective here is to familiarize oneself with natural language processing or text mining in R. I did this assignment with 2 other students in my class.
+This analysis is based off a Kaggle competition (https://www.kaggle.com/c/sys6018-competition-3) which is a part of an assignment in the SYS 6018 course in Data Mining. The learning objective here is to familiarize oneself with natural language processing or text mining in R. I did this assignment with 2 other students in my class and we were graded A+ (100/100) on our submission.
 
 #### Description -
 
